@@ -1,0 +1,11 @@
+:root {
+   --azulPrincipal: #1E385A;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   overflow-x: hidden;
+}
