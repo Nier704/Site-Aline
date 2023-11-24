@@ -28,8 +28,10 @@ const Motivos = () => {
                   src={telefone}
                   alt="icon"
                />
-               <h3 className='text-white text-xl font-bold'>Serviço de qualidade a baixo custo!</h3>
-               <p className='text-center text-white'>Realizamos um serviço de limpeza de alta qualidade e rigor, ainda assim a um custo reduzido, dando sempre garantia do trabalho realizado!
+               <h3 className='text-white text-xl font-bold'>Orçamento grátis e rápido!</h3>
+               <p className='text-center text-white'>Fazemos o seu orçamento no próprio dia, sem esperas e nem complicações, temos sempre uma equipe de comerciais disponíveis para lhe atender e tirar todas as suas dúvidas acerca do seu serviço de limpeza.
+
+
                </p>
             </div>
 
@@ -39,8 +41,8 @@ const Motivos = () => {
                   src={truck}
                   alt="icon"
                />
-               <h3 className='text-white text-xl font-bold'>Serviço de qualidade a baixo custo!</h3>
-               <p className='text-center text-white'>Realizamos um serviço de limpeza de alta qualidade e rigor, ainda assim a um custo reduzido, dando sempre garantia do trabalho realizado!
+               <h3 className='text-white text-xl font-bold'>Rápida marcação do serviço!</h3>
+               <p className='text-center text-white'>Após a sua aprovação do orçamento, temos capacidade para marcar o seu serviço de limpeza de imediato para o dia seguinte, pois dispomos de diversas equipas de intervenção, sempre aptas.
                </p>
             </div>
 
@@ -50,8 +52,8 @@ const Motivos = () => {
                   src={calendar}
                   alt="icon"
                />
-               <h3 className='text-white text-xl font-bold'>Serviço de qualidade a baixo custo!</h3>
-               <p className='text-center text-white'>Realizamos um serviço de limpeza de alta qualidade e rigor, ainda assim a um custo reduzido, dando sempre garantia do trabalho realizado!
+               <h3 className='text-white text-xl font-bold'>Horário alargado, 7 dias/semana, 24h/dia!</h3>
+               <p className='text-center text-white'>Trabalhamos sete dias por semana e 24h por dia, com equipas rotativas, que realizam os serviços de limpezas normais e também serviços s.o.s.
                </p>
             </div>
          </div>
